@@ -91,7 +91,10 @@ $ns run
 
 
 ## 📊 MODEL OUTPUT
-<img src="C:\Users\Latha\OneDrive\Pictures\Screenshots\code block 2.png" alt="Code block 2" width="200"/>
+<img width="722" height="1306" alt="image" src="https://github.com/user-attachments/assets/24e6fac0-af1b-436d-8d95-86878135c932" />
+<img width="851" height="853" alt="image" src="https://github.com/user-attachments/assets/6ce403a6-3e48-4379-bd74-cdc6f0e62f17" />
+
+
 
 
 ## 📝 MARK ALLOCATION
